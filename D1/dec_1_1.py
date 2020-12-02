@@ -2,7 +2,6 @@ import pandas as pd
 import numpy as np
 
 data = pd.read_csv('expense_report.csv', sep=',',header=None)
-
 data = data.values
 data = data[:,0]
 
