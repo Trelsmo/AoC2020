@@ -1,3 +1,7 @@
+# Advent of code Year 2020 Day 3 solution
+# Author = Svante Trelsmo
+# Date = December 2020
+
 
 down = [1,1,1,1,2]
 steps_right = [1,3,5,7,1]

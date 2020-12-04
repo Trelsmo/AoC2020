@@ -1,3 +1,8 @@
+# Advent of code Year 2020 Day 3 solution
+# Author = Svante Trelsmo
+# Date = December 2020
+
+
 f = open("input.txt","r")
 
 nbr_of_trees = 0

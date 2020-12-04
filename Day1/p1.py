@@ -1,3 +1,7 @@
+# Advent of code Year 2020 Day 1 solution
+# Author = Svante Trelsmo
+# Date = December 2020
+
 import pandas as pd
 import numpy as np
 

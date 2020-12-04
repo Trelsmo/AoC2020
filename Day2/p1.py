@@ -1,3 +1,7 @@
+# Advent of code Year 2020 Day 2 solution
+# Author = Svante Trelsmo
+# Date = December 2020
+
 f = open("input.txt","r")
 num_of_ok = 0
 
