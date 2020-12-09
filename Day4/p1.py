@@ -15,10 +15,7 @@ for x in f:
 			split_2 = entry.split(':')
 			tmp.append(split_2[0])
 	else:
-		#print(set(entries).issubset(set(tmp)))
-		#print('tmp',tmp,'entries',entries)
 		if set(entries).issubset(set(tmp)):
-			#print(i)
 			ok_passports +=1
 			#print('OK Passport')
 		tmp = []
